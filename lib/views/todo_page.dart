@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:todo_list/views/add_todo_view.dart';
 import 'package:todo_list/views/header_view.dart';
-import 'package:todo_list/views/todo_info_view.dart';
 import 'package:todo_list/views/todo_list_view.dart';
 
 class TodoPage extends StatelessWidget {

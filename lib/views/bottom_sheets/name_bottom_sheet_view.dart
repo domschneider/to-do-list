@@ -4,8 +4,6 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_list/view_models/app_view_model.dart';
 
-import '../../models/todo_model.dart';
-
 class ChangeNameBottomSheetView extends StatelessWidget {
   const ChangeNameBottomSheetView({super.key});
 
