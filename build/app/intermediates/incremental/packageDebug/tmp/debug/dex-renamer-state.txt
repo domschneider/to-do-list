@@ -1,0 +1,4 @@
+#Fri Aug 25 22:34:48 MDT 2023
+base.0=/home/dom/todo_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

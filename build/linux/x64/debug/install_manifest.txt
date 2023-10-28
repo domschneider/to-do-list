@@ -1,0 +1,12 @@
+/home/dom/todo_list/build/linux/x64/debug/bundle/todo_list
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/dom/todo_list/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/dom/todo_list/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
